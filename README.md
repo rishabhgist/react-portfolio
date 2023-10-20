@@ -2,7 +2,7 @@
 
 ## Preview
 
-### Live Preview -
+### Live Preview - rishabhgist.github.io/react-portfolio/
 
 ![](preview.jpg)
 
