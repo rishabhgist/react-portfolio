@@ -16,25 +16,25 @@ const Navbar = () => {
         <div className="social">
           <a href="#">
             <img
-              src="/facebook.png"
+              src="./facebook.png"
               alt=""
             />
           </a>
           <a href="#">
             <img
-              src="/instagram.png"
+              src="./instagram.png"
               alt=""
             />
           </a>
           <a href="#">
             <img
-              src="/youtube.png"
+              src="./youtube.png"
               alt=""
             />
           </a>
           <a href="#">
             <img
-              src="/dribbble.png"
+              src="./dribbble.png"
               alt=""
             />
           </a>
